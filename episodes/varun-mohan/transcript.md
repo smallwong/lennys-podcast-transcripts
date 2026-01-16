@@ -3,7 +3,6 @@ guest: Varun Mohan
 title: An inside look at how Miro builds product | Varun Parmar (CPO of Miro)
 youtube_url: https://www.youtube.com/watch?v=furNg4njlsg
 video_id: furNg4njlsg
-publish_date: '2023-04-20'
 description: 'Varun Parmar is the Chief Product Officer of Miro and has over two decades
   of experience in the tech industry. Prior to joining Miro, Varun held executive
   positions as Chief Product Officer...
@@ -12,6 +11,27 @@ description: 'Varun Parmar is the Chief Product Officer of Miro and has over two
 duration_seconds: 5111.0
 duration: '1:25:11'
 view_count: 13074
+title: 'Building a magical AI code editor used by over 1m developers in 4 months:
+  Inside Windsurf'
+youtube_url: https://www.youtube.com/watch?v=5Z0RCxDZdrE
+video_id: 5Z0RCxDZdrE
+description: Varun Mohan is the co-founder and CEO of Windsurf (formerly Codeium),
+  an AI-powered development environment (IDE) that has been used by over 1 million
+  developers.
+duration_seconds: 4446.0
+duration: '1:14:06'
+view_count: 63559
+title: 'Building a magical AI code editor used by over 1m developers in 4 months:
+  Inside Windsurf'
+youtube_url: https://www.youtube.com/watch?v=5Z0RCxDZdrE
+video_id: 5Z0RCxDZdrE
+publish_date: 2025-04-20
+description: Varun Mohan is the co-founder and CEO of Windsurf (formerly Codeium),
+  an AI-powered development environment (IDE) that has been used by over 1 million
+  developers.
+duration_seconds: 4446.0
+duration: '1:14:06'
+view_count: 63559
 channel: Lenny's Podcast
 keywords:
 - growth

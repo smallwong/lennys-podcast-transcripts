@@ -4,7 +4,6 @@ title: Building minimum lovable products, stories from WeWork & Airbnb, and thri
   as a PM | Jiaona Zhang
 youtube_url: https://www.youtube.com/watch?v=gLFZNzeylCc
 video_id: gLFZNzeylCc
-publish_date: '2023-07-02'
 description: 'Jiaona Zhang (JZ) is a product leader with a strong background in consumer
   products and extensive hiring and management experience. She is currently SVP of
   Product at Webflow as well as a lecturer...
@@ -13,6 +12,27 @@ description: 'Jiaona Zhang (JZ) is a product leader with a strong background in 
 duration_seconds: 4052.0
 duration: '1:07:32'
 view_count: 19099
+title: Notion's lost years, near collapse during COVID, staying small to move fast,
+  building horizontal
+youtube_url: https://www.youtube.com/watch?v=IIPKMixTMfE
+video_id: IIPKMixTMfE
+description: Ivan Zhao is the co-founder and CEO of Notion. Ivan shares the untold
+  story of Notion, from nearly running out of database space during Covid to finding
+  product-market fit.
+duration_seconds: 4338.0
+duration: '1:12:18'
+view_count: 49484
+title: Notion's lost years, near collapse during COVID, staying small to move fast,
+  building horizontal
+youtube_url: https://www.youtube.com/watch?v=IIPKMixTMfE
+video_id: IIPKMixTMfE
+publish_date: 2025-03-06
+description: Ivan Zhao is the co-founder and CEO of Notion. Ivan shares the untold
+  story of Notion, from nearly running out of database space during Covid to finding
+  product-market fit.
+duration_seconds: 4338.0
+duration: '1:12:18'
+view_count: 49484
 channel: Lenny's Podcast
 keywords:
 - growth

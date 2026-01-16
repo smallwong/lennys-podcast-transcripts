@@ -4,7 +4,6 @@ title: 10 growth tactics that never work | Elena Verna (Amplitude, Miro, Dropbox
   SurveyMonkey)
 youtube_url: https://www.youtube.com/watch?v=IHwS2By9UKM
 video_id: IHwS2By9UKM
-publish_date: '2025-01-19'
 description: 'Elena Verna is one of Silicon Valley’s most sought-after growth advisors
   and operators. She previously led growth at companies like Amplitude, Miro, Dropbox,
   and SurveyMonkey and is currently...
@@ -13,6 +12,23 @@ description: 'Elena Verna is one of Silicon Valley’s most sought-after growth 
 duration_seconds: 5710.0
 duration: '1:35:10'
 view_count: 94594
+title: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
+youtube_url: https://www.youtube.com/watch?v=6qAB6aUMIeA
+video_id: 6qAB6aUMIeA
+description: Elena Verna is the head of growth at Lovable, the leading AI-powered
+  app builder that hit $200 million in annual recurring revenue in under a year.
+duration_seconds: 5516.0
+duration: '1:31:56'
+view_count: 44129
+title: The new AI growth playbook for 2026 | How Lovable hit $200M ARR in one year
+youtube_url: https://www.youtube.com/watch?v=6qAB6aUMIeA
+video_id: 6qAB6aUMIeA
+publish_date: 2025-12-18
+description: Elena Verna is the head of growth at Lovable, the leading AI-powered
+  app builder that hit $200 million in annual recurring revenue in under a year.
+duration_seconds: 5516.0
+duration: '1:31:56'
+view_count: 44129
 channel: Lenny's Podcast
 keywords:
 - product-market fit
