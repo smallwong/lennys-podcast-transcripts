@@ -113,6 +113,16 @@ This archive contains **269 transcripts** from Lenny's Podcast episodes.
 
 If you notice any issues with the transcripts or metadata, please open an issue or submit a pull request.
 
+## Projects Built with These Transcripts
+
+Here are some projects that have been built using this transcript archive:
+
+**[AI Lenny Career-Advice Chatbot + Infographic Gallery](https://lnkd.in/gddpgYWX)** by Alan Chan - An infographic gallery and AI-powered career advice chatbot built end-to-end with Manus AI. The chatbot lets you explore Lenny's podcast insights in conversational format, while the infographic gallery provides visual summaries of key episodes.
+
+**Claude Cowork Theme Analysis** by Lenny Rachitsky (Jan 12, 2026) - Lenny used Claude Cowork to analyze all 320+ transcripts and extract the 10 most important themes and lessons for product builders, plus the 10 most counterintuitive truths from across all episodes.
+
+Have you built something with these transcripts? Open a PR to add your project to this list!
+
 ## Disclaimer
 
 This archive is for educational and research purposes. All content belongs to Lenny's Podcast and the respective guests. Please visit the official YouTube channel to support the creators.
