@@ -1,7 +1,6 @@
 ---
 guest: Jason Droege
-title: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier
-  labs are building next
+title: Scale AI CEO on Meta's $14B deal, scaling Uber Eats to $80B, & what frontier labs are building next
 youtube_url: https://www.youtube.com/watch?v=W99jdYZOlN0
 video_id: W99jdYZOlN0
 publish_date: 2025-10-09

@@ -1,7 +1,6 @@
 ---
 guest: Ivan Zhao
-title: Notion's lost years, near collapse during COVID, staying small to move fast,
-  building horizontal
+title: Notion's lost years, near collapse during COVID, staying small to move fast, building horizontal
 youtube_url: https://www.youtube.com/watch?v=IIPKMixTMfE
 video_id: IIPKMixTMfE
 publish_date: 2025-03-06

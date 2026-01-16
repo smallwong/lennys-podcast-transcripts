@@ -29,7 +29,7 @@ keywords:
 - strategy
 ---
 
-# Inside ChatGPT: The fastest growing product in history | Nick Turley (OpenAI)
+# Inside ChatGPT: The fastest growing product in history  | Nick Turley (OpenAI)
 
 ## Transcript
 

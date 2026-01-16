@@ -1,7 +1,6 @@
 ---
 guest: Matt MacInnis
-title: '"I deliberately understaff every project" | Leadership lessons from Rippling''s
-  $16B journey'
+title: '"I deliberately understaff every project" | Leadership lessons from Rippling''s $16B journey'
 youtube_url: https://www.youtube.com/watch?v=O_W76LR77Vw
 video_id: O_W76LR77Vw
 publish_date: 2025-12-28
